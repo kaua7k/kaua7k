@@ -34,16 +34,21 @@
 ## 🔹 Simulação de Rede Corporativa no GNS3
 [![Acessar Projeto](https://img.shields.io/badge/-Acessar%20Projeto-2ea44f?style=for-the-badge)](https://github.com/kaua7k/Rede-Corporativa)
 
-Automação com Ansible
+<!--
+### 🔧 Projetos de Infraestrutura de Rede
 
-#🔹 **[Firewall com pfSense + VPN](#)**  
-#Criação de um firewall robusto para proteção de redes, integrando VPN para acesso remoto seguro.  
-#
-#🔹 **[Automação de Switches com Ansible](#)**  
-#Automação de configuração de VLANs e ACLs em switches Cisco usando Ansible.  
-#
-#🔹 **[Monitoramento de Redes com Zabbix](#)**  
-#Implantação de um ambiente de monitoramento para análise de desempenho e segurança de redes.  
+- 🔹 **Firewall com pfSense + VPN**  
+  `Segurança` `VPN`  
+  Firewall enterprise com OpenVPN/IPSec para acesso remoto
+
+- 🔹 **Automação de Switches com Ansible**  
+  `Cisco` `Automação`  
+  Provisionamento automático de VLANs/ACLs em switches
+
+- 🔹 **Monitoramento com Zabbix**  
+  `Zabbix` `SNMP`  
+  Monitoramento de disponibilidade e performance de rede
+-->
 
 ---
 

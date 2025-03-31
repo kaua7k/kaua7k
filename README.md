@@ -30,14 +30,9 @@
 ---
 
 ### 📌 **Projetos em Destaque**
-🔹 Simulação de Rede Corporativa no GNS3
-Configuração de uma rede completa com:
 
-VLANs
-
-OSPF
-
-ACLs
+## 🔹 Simulação de Rede Corporativa no GNS3
+[![Acessar Projeto](https://img.shields.io/badge/-Acessar%20Projeto-2ea44f?style=for-the-badge)](https://github.com/kaua7k/Rede-Corporativa)
 
 Automação com Ansible
 

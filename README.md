@@ -30,8 +30,16 @@
 ---
 
 ### 📌 **Projetos em Destaque**
-🔹 **[Simulação de Rede Corporativa no GNS3](https://github.com/kaua7k/Rede-Corporativa)
-Configuração de uma rede completa com VLANs, OSPF, ACLs e automação com Ansible.  
+🔹 Simulação de Rede Corporativa no GNS3
+Configuração de uma rede completa com:
+
+VLANs
+
+OSPF
+
+ACLs
+
+Automação com Ansible
 
 #🔹 **[Firewall com pfSense + VPN](#)**  
 #Criação de um firewall robusto para proteção de redes, integrando VPN para acesso remoto seguro.  

@@ -30,17 +30,17 @@
 ---
 
 ### 📌 **Projetos em Destaque**
-🔹 **[Simulação de Rede Corporativa no GNS3](#)**  
+🔹 **[[Simulação de Rede Corporativa no GNS3](https://github.com/kaua7k/Rede-Corporativa)](#)**  
 Configuração de uma rede completa com VLANs, OSPF, ACLs e automação com Ansible.  
 
-🔹 **[Firewall com pfSense + VPN](#)**  
-Criação de um firewall robusto para proteção de redes, integrando VPN para acesso remoto seguro.  
-
-🔹 **[Automação de Switches com Ansible](#)**  
-Automação de configuração de VLANs e ACLs em switches Cisco usando Ansible.  
-
-🔹 **[Monitoramento de Redes com Zabbix](#)**  
-Implantação de um ambiente de monitoramento para análise de desempenho e segurança de redes.  
+#🔹 **[Firewall com pfSense + VPN](#)**  
+#Criação de um firewall robusto para proteção de redes, integrando VPN para acesso remoto seguro.  
+#
+#🔹 **[Automação de Switches com Ansible](#)**  
+#Automação de configuração de VLANs e ACLs em switches Cisco usando Ansible.  
+#
+#🔹 **[Monitoramento de Redes com Zabbix](#)**  
+#Implantação de um ambiente de monitoramento para análise de desempenho e segurança de redes.  
 
 ---
 

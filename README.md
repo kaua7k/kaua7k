@@ -21,7 +21,6 @@
 
 ---
 
-### 📌 **Projetos em Destaque**
 
 ## 🔹 Projetos de Infraestrutura e Redes
 

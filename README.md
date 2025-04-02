@@ -23,24 +23,20 @@
 
 ### 📌 **Projetos em Destaque**
 
-## 🔹 Simulação de Rede Corporativa no GNS3
-[![Acessar Projeto](https://img.shields.io/badge/-Acessar%20Projeto-2ea44f?style=for-the-badge)](https://github.com/kaua7k/Rede-Corporativa)
+## 🔹 Projetos de Infraestrutura e Redes
 
-<!--
-### 🔧 Projetos de Infraestrutura de Rede
+### 📌 Simulação de Rede Corporativa no GNS3  
+[![Acessar Projeto](https://img.shields.io/badge/-Acessar%20Projeto-2ea44f?style=for-the-badge)](https://github.com/kaua7k/Rede-Corporativa)  
 
-- 🔹 **Firewall com pfSense + VPN**  
-  `Segurança` `VPN`  
-  Firewall enterprise com OpenVPN/IPSec para acesso remoto
+### 🔥 Firewall e VPN  
+[![Acessar Projeto](https://img.shields.io/badge/-Acessar%20Projeto-2ea44f?style=for-the-badge)](https://github.com/kaua7k/Firewall-vpn.git)  
 
-- 🔹 **Automação de Switches com Ansible**  
-  `Cisco` `Automação`  
-  Provisionamento automático de VLANs/ACLs em switches
+### 🛠️ Comandos Úteis  
+[![Acessar Projeto](https://img.shields.io/badge/-Acessar%20Projeto-2ea44f?style=for-the-badge)](https://github.com/kaua7k/Comandos_Uteis.git)  
 
-- 🔹 **Monitoramento com Zabbix**  
-  `Zabbix` `SNMP`  
-  Monitoramento de disponibilidade e performance de rede
--->
+### 🏗️ Infraestrutura Completa  
+[![Acessar Projeto](https://img.shields.io/badge/-Acessar%20Projeto-2ea44f?style=for-the-badge)](https://github.com/kaua7k/Infra-Completa.git)  
+
 
 ---
 

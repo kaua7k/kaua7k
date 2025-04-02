@@ -12,7 +12,7 @@
 - ⚙️ Trabalho com switches das marcas **Cisco, Nokia, Extreme e Brocade**.  
 - 🤖 Automação de redes com **Ansible e SSH**.  
 - 🌍 Servidores e virtualização: **iDRAC, RAID, IIS**.  
-- 📚 Sempre aprendendo algo novo e buscando desafios na área de **redes, segurança e desenvolvimento**.  
+- 📚 Sempre aprendendo algo novo e buscando desafios na área de **redes, segurança e Cloud**.  
 
 ---
 

@@ -56,7 +56,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## 📊 Estatísticas do GitHub   
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaua7k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -72,4 +72,4 @@
 
 ---
 
-⭐ **Se gostou do meu perfil, não esqueça de dar um star nos projetos!** 🚀✨
+⭐ **Se gostou do meu perfil, não esqueça de dar uma star nos projetos!** 🚀✨

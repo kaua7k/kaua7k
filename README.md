@@ -3,7 +3,7 @@
   Apaixonado por Tecnologia da Informação, com foco em computação em nuvem e infraestrutura de redes.
 </p>
 
-![Sasuke GIF](https://media.giphy.com/media/11R5t1ItnjXPLO/giphy.gif)
+![Sasuke GIF]([https://media.giphy.com/media/11R5t1ItnjXPLO/giphy.gif](https://i.gifer.com/LXuS.gif))
 
 ---
 

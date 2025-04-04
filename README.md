@@ -80,3 +80,6 @@
 ---
 
 ⭐ **Se gostou do meu perfil, não esqueça de dar uma star nos projetos!** 🚀✨
+
+![Visitas no perfil](https://komarev.com/ghpvc/?username=kaua7k&color=blue)
+

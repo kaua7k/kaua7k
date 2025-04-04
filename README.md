@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.gifer.com/1kLR.gif">
+  <img src="https://i.gifer.com/1kLR.gif", img src ="https://i.gifer.com/5Mys.gif">
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Kauã! (@kaua7k)</h1>

@@ -1,11 +1,13 @@
+<p align="center">
+  <img src="https://i.gifer.com/LXuS.gif" alt="Sasuke GIF">
+</p>
+
 <h1 align="center">👋 Olá, eu sou o Kauã! (@kaua7k)</h1>
 <p align="center">
   Apaixonado por Tecnologia da Informação, com foco em computação em nuvem e infraestrutura de redes.
 </p>
 
-<p align="center">
-  <img src="https://i.gifer.com/LXuS.gif" alt="Sasuke GIF">
-</p>
+---
 
 ---
 

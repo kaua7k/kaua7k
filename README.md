@@ -65,12 +65,6 @@
 
 ---
 
-## 📊 Meu Progresso
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical)
-
----
-
 ## 📫 Vamos nos conectar!  
 
 🔹 [LinkedIn](https://www.linkedin.com/in/kaua7k)  

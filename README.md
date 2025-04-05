@@ -40,7 +40,6 @@
   <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nagios-269539?style=for-the-badge&logo=nagios&logoColor=white" />
   <img src="https://img.shields.io/badge/TCP/IP-007396?style=for-the-badge&logo=internet-protocol&logoColor=white" />
   <img src="https://img.shields.io/badge/MikroTik-FF6600?style=for-the-badge&logo=mikrotik&logoColor=white" />
 </div>

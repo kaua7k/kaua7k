@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Olá, eu sou o Kauã! (@kaua7k)</h1>
 <p align="center">
-  Apaixonado por Tecnologia da Informação, com foco em computação em nuvem e infraestrutura de redes.
+  Apaixonado por Tecnologia da Informação, com foco em computação em nuvem, infraestrutura de redes e hiperfoco no "saske" 
 </p>
 
 ---

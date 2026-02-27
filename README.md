@@ -11,10 +11,9 @@
 
 ## 🚀 Sobre Mim  
 - 🎓 **Formado em Redes de Computadores** pelo SENAI (2 anos de curso).  
-- 💻 **Suporte NOC N1** atuando com **automação, troubleshooting e gerenciamento de redes**.  
+- 💻 **Analista de suporte** atuando com **Monitoração, troubleshooting e gerenciamento de redes**.  
 - 🔧 Experiência com **VLAN, ACL, STP, NAT, IPv6, IoT e Arduino**.  
 - ⚙️ Trabalho com switches das marcas **Cisco, Nokia, Extreme e Brocade**.  
-- 🤖 Automação de redes com **Ansible e SSH**.  
 - 🌍 Servidores e virtualização: **iDRAC, RAID, IIS**.  
 - 📚 Sempre aprendendo algo novo e buscando desafios na área de **redes, segurança e Cloud**.  
 

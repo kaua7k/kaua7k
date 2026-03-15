@@ -1,13 +1,13 @@
+<h1 align="center">Kauã Lima</h1>
 <p align="center">
-  <img src="./nome_sourcecode.gif" alt="Kauã Lima"/>
+  Analista de Suporte | Infraestrutura & Redes | NOC | Cloud GCP · AWS
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaua7k"><img src="https://img.shields.io/badge/LinkedIn-kaua7k-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kaua.lima.emp@gmail.com"><img src="https://img.shields.io/badge/Email-kaua.lima.emp@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=kaua7k&color=blue&style=flat"/>
 </p>
 
-<h3 align="center">🖥️ Analista de Suporte | NOC | Infraestrutura & Redes</h3>
-
-<p align="center">
-  Focado em suporte N1/N2 e monitoramento NOC em ambientes corporativos de alta disponibilidade.<br/>
-  Atualmente cursando <strong>Gestão de TI</strong> na UNIP e me especializando em <strong>Cloud & Automação</strong>.
-</p>
 
 ---
 

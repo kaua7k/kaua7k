@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./NICKNAME.SVG" width="100%"/>
+  <img src="./nickname.svg" width="100%"/>
 </p>
 
 <p align="center">

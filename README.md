@@ -98,5 +98,5 @@ Profissional de TI com experiência em suporte técnico N1/N2, monitoramento NOC
 </div>
 
 <p align="center">
-  <img src="./api.svg" alt="footer" width="100%" style="transform: scaleY(-1)"/>
+  <img src="././nickname.svg" alt="footer" width="100%" style="transform: scaleY(-1)"/>
 </p>

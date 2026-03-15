@@ -1,4 +1,4 @@
-<p align="center"> <h2 align="center">Kauã Lima</h2>
+<img src="./nome_matrix_font.svg" alt="Kauã Lima"/>
    </p>
 
 <h3 align="center">🖥️ Analista de Suporte | NOC | Infraestrutura & Redes</h3>

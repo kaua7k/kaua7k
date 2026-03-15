@@ -64,20 +64,25 @@ Profissional de TI com experiência em suporte técnico N1/N2, monitoramento NOC
 
 ---
 
-## Projetos
+## 🔹 Projetos de Infraestrutura e Redes
 
-📊 [**monitoring-lab**](https://github.com/kaua7k/monitoring-lab) — Stack NOC completa em Docker · Zabbix · Grafana · Prometheus
+📊 **Stack NOC — Zabbix + Grafana + Prometheus**
+[![Acessar Projeto](https://img.shields.io/badge/-Acessar%20Projeto-2ea44f?style=for-the-badge)](https://github.com/kaua7k/monitoring-lab)
 
-⚙️ [**ansible-network**](https://github.com/kaua7k/ansible-network) — Backup Cisco IOS + config VLANs · Ansible · GCP
+⚙️ **Ansible — Backup Cisco IOS + VLANs**
+[![Acessar Projeto](https://img.shields.io/badge/-Acessar%20Projeto-2ea44f?style=for-the-badge)](https://github.com/kaua7k/ansible-network)
 
-📡 [**zabbix-templates**](https://github.com/kaua7k/zabbix-templates) — Templates prontos para Cisco, Linux e Windows · SNMP · Agent2
+📡 **Templates Zabbix — Cisco, Linux e Windows**
+[![Acessar Projeto](https://img.shields.io/badge/-Acessar%20Projeto-2ea44f?style=for-the-badge)](https://github.com/kaua7k/zabbix-templates)
 
-🖥️ [**scripts-noc**](https://github.com/kaua7k/scripts-noc) — Scripts Bash para uptime check, métricas e alertas · Linux · Slack
+🖥️ **Scripts Bash para NOC — Uptime, Métricas e Alertas**
+[![Acessar Projeto](https://img.shields.io/badge/-Acessar%20Projeto-2ea44f?style=for-the-badge)](https://github.com/kaua7k/scripts-noc)
 
-🔀 [**Rede-Corporativa**](https://github.com/kaua7k/Rede-Corporativa) — Simulação de rede corporativa no GNS3 · OSPF · VLANs
+🔀 **Simulação de Rede Corporativa no GNS3**
+[![Acessar Projeto](https://img.shields.io/badge/-Acessar%20Projeto-2ea44f?style=for-the-badge)](https://github.com/kaua7k/Rede-Corporativa)
 
-🔥 [**Firewall-vpn**](https://github.com/kaua7k/Firewall-vpn) — Firewall pfSense + VPN site-to-site · OpenVPN · IPSec
-
+🔥 **Firewall com pfSense + VPN Site-to-Site**
+[![Acessar Projeto](https://img.shields.io/badge/-Acessar%20Projeto-2ea44f?style=for-the-badge)](https://github.com/kaua7k/Firewall-vpn)
 ---
 
 ## Estatísticas

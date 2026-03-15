@@ -1,4 +1,6 @@
-<img src="./nome_matrix_font.svg" alt="Kauã Lima"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&weight=700&size=28&duration=150&pause=1500&color=39FF14&center=true&vCenter=true&width=435&lines=K;Ka;Kau;Kau%C3%A3;Kau%C3%A3+L;Kau%C3%A3+Li;Kau%C3%A3+Lim;Kau%C3%A3+Lima" alt="Kauã Lima"/>
+</p>
    </p>
 
 <h3 align="center">🖥️ Analista de Suporte | NOC | Infraestrutura & Redes</h3>

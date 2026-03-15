@@ -1,42 +1,41 @@
 <p align="center">
   <img src="./nome_animado.svg" alt="Kauã Lima"/>
 </p>
-
-<h3 align="center">🖥️ Analista de Suporte | NOC | Infraestrutura & Redes</h3>
-
 <p align="center">
-  Focado em suporte N1/N2 e monitoramento NOC em ambientes corporativos de alta disponibilidade.<br/>
-  Atualmente cursando <strong>Gestão de TI</strong> na UNIP e me especializando em <strong>Cloud & Automação</strong>.
+  <sub>Analista de Suporte &nbsp;·&nbsp; Infraestrutura & Redes &nbsp;·&nbsp; NOC &nbsp;·&nbsp; Cloud GCP · AWS</sub>
 </p>
-
----
-
-<h3 align="center">📬 Como me contatar</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaua7k">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-kaua7k-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:kaua.lima.emp@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-kaua.lima.emp@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-</p>
-<p align="center">
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=kaua7k&color=0A66C2&style=flat-square&label=views"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Suporte+N1%2FN2+%7C+NOC+%7C+Infraestrutura;Zabbix+%7C+Grafana+%7C+Ansible+%7C+Docker;GCP+%7C+AWS+%7C+Linux+%7C+Cisco" alt="Typing SVG" />
+</p>
+
 ---
 
-## 🏢 Experiência
+## Sobre mim
 
-- 🔵 **BNP – Soluções em TI** — Analista de Suporte Júnior *(atual)*
-- 🟣 **Accenture Brasil** — Analista NOC Júnior I
+Profissional de TI com experiência em suporte técnico N1/N2, monitoramento NOC e infraestrutura de redes. Atuação em ambientes corporativos com ferramentas como N-able, Zabbix, Grafana, Exchange e ServiceNow.
+
+- 🏢 **BNP – Soluções em TI** — Analista de Suporte Júnior *(atual)*
+- 🏢 **Accenture Brasil** — Analista NOC Júnior I
 - 🌐 **NIC.br** — Estágio em Redes de Computadores (IX.br)
+- 🎓 Cursando Gestão de TI — UNIP | Técnico em Redes — SENAI
+- 📍 Santo André, SP
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <div align="center">
 
@@ -106,7 +105,7 @@
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaua7k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

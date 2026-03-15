@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="./nome_animado.svg" alt="Kauã Lima"/>
-</p>
+<p align="center"> <h2 align="center">Kauã Lima</h2>
+   </p>
 
 <h3 align="center">🖥️ Analista de Suporte | NOC | Infraestrutura & Redes</h3>
 

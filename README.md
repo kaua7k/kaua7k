@@ -66,14 +66,17 @@ Profissional de TI com experiência em suporte técnico N1/N2, monitoramento NOC
 
 ## Projetos
 
-| Repo | Descrição | Stack |
-|------|-----------|-------|
-| [monitoring-lab](https://github.com/kaua7k/monitoring-lab) | Stack NOC completa em Docker — sobe com um comando | Zabbix · Grafana · Prometheus · Docker |
-| [ansible-network](https://github.com/kaua7k/ansible-network) | Backup Cisco IOS + config VLANs automatizados | Ansible · Cisco IOS · GCP |
-| [zabbix-templates](https://github.com/kaua7k/zabbix-templates) | Templates prontos para Cisco, Linux e Windows | Zabbix · SNMP · Agent2 |
-| [scripts-noc](https://github.com/kaua7k/scripts-noc) | Scripts Bash para uptime check, métricas e alertas | Bash · Linux · Slack |
-| [Rede-Corporativa](https://github.com/kaua7k/Rede-Corporativa) | Simulação de rede corporativa no GNS3 | GNS3 · OSPF · VLANs · NAT |
-| [Firewall-vpn](https://github.com/kaua7k/Firewall-vpn) | Firewall com pfSense + VPN site-to-site | pfSense · OpenVPN · IPSec |
+📊 [**monitoring-lab**](https://github.com/kaua7k/monitoring-lab) — Stack NOC completa em Docker · Zabbix · Grafana · Prometheus
+
+⚙️ [**ansible-network**](https://github.com/kaua7k/ansible-network) — Backup Cisco IOS + config VLANs · Ansible · GCP
+
+📡 [**zabbix-templates**](https://github.com/kaua7k/zabbix-templates) — Templates prontos para Cisco, Linux e Windows · SNMP · Agent2
+
+🖥️ [**scripts-noc**](https://github.com/kaua7k/scripts-noc) — Scripts Bash para uptime check, métricas e alertas · Linux · Slack
+
+🔀 [**Rede-Corporativa**](https://github.com/kaua7k/Rede-Corporativa) — Simulação de rede corporativa no GNS3 · OSPF · VLANs
+
+🔥 [**Firewall-vpn**](https://github.com/kaua7k/Firewall-vpn) — Firewall pfSense + VPN site-to-site · OpenVPN · IPSec
 
 ---
 

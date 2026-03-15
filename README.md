@@ -67,22 +67,29 @@ Profissional de TI com experiência em suporte técnico N1/N2, monitoramento NOC
 ## 🔹 Projetos de Infraestrutura e Redes
 
 📊 **Stack NOC — Zabbix + Grafana + Prometheus**
+
 [![Acessar Projeto](https://img.shields.io/badge/-Acessar%20Projeto-2ea44f?style=for-the-badge)](https://github.com/kaua7k/monitoring-lab)
 
 ⚙️ **Ansible — Backup Cisco IOS + VLANs**
+
 [![Acessar Projeto](https://img.shields.io/badge/-Acessar%20Projeto-2ea44f?style=for-the-badge)](https://github.com/kaua7k/ansible-network)
 
 📡 **Templates Zabbix — Cisco, Linux e Windows**
+
 [![Acessar Projeto](https://img.shields.io/badge/-Acessar%20Projeto-2ea44f?style=for-the-badge)](https://github.com/kaua7k/zabbix-templates)
 
 🖥️ **Scripts Bash para NOC — Uptime, Métricas e Alertas**
+
 [![Acessar Projeto](https://img.shields.io/badge/-Acessar%20Projeto-2ea44f?style=for-the-badge)](https://github.com/kaua7k/scripts-noc)
 
 🔀 **Simulação de Rede Corporativa no GNS3**
+
 [![Acessar Projeto](https://img.shields.io/badge/-Acessar%20Projeto-2ea44f?style=for-the-badge)](https://github.com/kaua7k/Rede-Corporativa)
 
 🔥 **Firewall com pfSense + VPN Site-to-Site**
+
 [![Acessar Projeto](https://img.shields.io/badge/-Acessar%20Projeto-2ea44f?style=for-the-badge)](https://github.com/kaua7k/Firewall-vpn)
+
 ---
 
 ## Estatísticas

@@ -18,10 +18,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Suporte+N1%2FN2+%7C+NOC+%7C+Infraestrutura;Zabbix+%7C+Grafana+%7C+Ansible+%7C+Docker;GCP+%7C+AWS+%7C+Linux+%7C+Cisco" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Suporte+N1%2FN2+%7C+NOC+%7C+Infraestrutura;Zabbix+%7C+Grafana+%7C+Ansible+%7C+Docker;GCP+%7C+AWS+%7C+Linux+%7C+Cisco" alt="Typing SVG" />
 </p>
 
----
 ---
 
 ## Sobre mim

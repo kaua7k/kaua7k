@@ -1,17 +1,9 @@
 <p align="center">
-  <img src="./api.svg" alt="Kauã Lima" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Kauã Lima" alt="Kauã Lima"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kaua7k">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:kaua.lima.emp@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=kaua7k&color=0A66C2&style=for-the-badge&label=VIEWS"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=435&lines=Analista+de+Suporte+%7C+NOC+%7C+Infraestrutura" alt="cargo"/>
 </p>
 
 ---

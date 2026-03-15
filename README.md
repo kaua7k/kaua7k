@@ -1,4 +1,18 @@
-<img src="./api.svg" alt="Kauã Lima" width="100%"/>
+<p align="center">
+  <img src="./api.svg" alt="Kauã Lima" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaua7k">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:kaua.lima.emp@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=kaua7k&color=0A66C2&style=for-the-badge&label=VIEWS"/>
+</p>
 
 ---
 
@@ -92,5 +106,5 @@ Profissional de TI com experiência em suporte técnico N1/N2, monitoramento NOC
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=120&section=footer" alt="footer"/>
+  <img src="./api.svg" alt="footer" width="100%" style="transform: scaleY(-1)"/>
 </p>

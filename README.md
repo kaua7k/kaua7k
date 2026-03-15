@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=220&section=header&text=Kauã%20Lima&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Suporte%20%7C%20NOC%20%7C%20Infraestrutura%20%26%20Redes&descAlignY=56&descSize=18&descColor=aaaaaa" alt="Kauã Lima"/>
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=220&section=header&text=Kauã%20Lima&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Suporte%20%7C%20NOC%20%7C%20Infraestrutura%20%26%20Redes&descAlignY=56&descSize=18&descColor=aaaaaa](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=220&section=header&text=Kaua%20Lima&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Suporte%20%7C%20NOC%20%7C%20Infraestrutura%20%26%20Redes&descAlignY=56&descSize=18&descColor=aaaaaa)" alt="Kauã Lima"/>
 </p>
 
 <p align="center">

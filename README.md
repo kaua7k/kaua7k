@@ -1,13 +1,33 @@
-<h1 align="center">Kauã Lima</h1>
+```
+██╗  ██╗ █████╗ ██╗   ██╗ █████╗     ██╗     ██╗███╗   ███╗ █████╗
+██║ ██╔╝██╔══██╗██║   ██║██╔══██╗    ██║     ██║████╗ ████║██╔══██╗
+█████╔╝ ███████║██║   ██║███████║    ██║     ██║██╔████╔██║███████║
+██╔═██╗ ██╔══██║██║   ██║██╔══██║    ██║     ██║██║╚██╔╝██║██╔══██║
+██║  ██╗██║  ██║╚██████╔╝██║  ██║    ███████╗██║██║ ╚═╝ ██║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝    ╚══════╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
+```
+
 <p align="center">
-  Analista de Suporte | Infraestrutura & Redes | NOC | Cloud GCP · AWS
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/kaua7k"><img src="https://img.shields.io/badge/LinkedIn-kaua7k-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kaua.lima.emp@gmail.com"><img src="https://img.shields.io/badge/Email-kaua.lima.emp@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=kaua7k&color=blue&style=flat"/>
+  <sub>Analista de Suporte &nbsp;·&nbsp; Infraestrutura & Redes &nbsp;·&nbsp; NOC &nbsp;·&nbsp; Cloud GCP · AWS</sub>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaua7k">
+    <img src="https://img.shields.io/badge/LinkedIn-kaua7k-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:kaua.lima.emp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kaua.lima.emp@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=kaua7k&color=0A66C2&style=flat-square&label=views"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Suporte+N1%2FN2+%7C+NOC+%7C+Infraestrutura;Zabbix+%7C+Grafana+%7C+Ansible+%7C+Docker;GCP+%7C+AWS+%7C+Linux+%7C+Cisco" alt="Typing SVG" />
+</p>
+
+---
 ---
 
 ## Sobre mim

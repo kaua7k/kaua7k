@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./nome_sourcecode.gif" alt="Kauã Lima"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:808080,100:FFFFFF&height=200&section=header&text=Kauã%20Lima&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Suporte%20%7C%20NOC%20%7C%20Infraestrutura%20%26%20Redes&descAlignY=55&descSize=18" alt="Kauã Lima"/>
 </p>
 
 

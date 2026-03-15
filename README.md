@@ -1,11 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:808080,100:FFFFFF&height=200&section=header&text=Kauã%20Lima&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Suporte%20%7C%20NOC%20%7C%20Infraestrutura%20%26%20Redes&descAlignY=55&descSize=18" alt="Kauã Lima"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=220&section=header&text=Kauã%20Lima&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Suporte%20%7C%20NOC%20%7C%20Infraestrutura%20%26%20Redes&descAlignY=56&descSize=18&descColor=aaaaaa" alt="Kauã Lima"/>
 </p>
-
-
----
-
-<h3 align="center">📬 Como me contatar</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaua7k">
@@ -15,10 +10,13 @@
   <a href="mailto:kaua.lima.emp@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=kaua7k&color=0A66C2&style=for-the-badge&label=VIEWS"/>
+</p>
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
 Profissional de TI com experiência em suporte técnico N1/N2, monitoramento NOC e infraestrutura de redes. Atuação em ambientes corporativos com ferramentas como N-able, Zabbix, Grafana, Exchange e ServiceNow.
 
@@ -28,7 +26,6 @@ Profissional de TI com experiência em suporte técnico N1/N2, monitoramento NOC
 - 🎓 Cursando Gestão de TI — UNIP | Técnico em Redes — SENAI
 - 📍 Santo André, SP
 
----
 ---
 
 ## 🛠️ Tecnologias
@@ -107,3 +104,7 @@ Profissional de TI com experiência em suporte técnico N1/N2, monitoramento NOC
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaua7k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=kaua7k&theme=tokyonight"/>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=120&section=footer" alt="footer"/>
+</p>

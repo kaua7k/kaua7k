@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=26&duration=60&pause=1000&color=39FF14&center=true&vCenter=true&width=435&height=60&lines=K;Ka;Kau;Kau%C3%A3;Kau%C3%A3+L;Kau%C3%A3+Li;Kau%C3%A3+Lim;Kau%C3%A3+Lima" alt="Kauã Lima"/>
-</p>
+<img src="./nome_sourcecode.gif" alt="Kauã Lima"/>
 
 <h3 align="center">🖥️ Analista de Suporte | NOC | Infraestrutura & Redes</h3>
 

@@ -15,7 +15,7 @@ Profissional de TI com experiência em suporte técnico N1/N2, monitoramento NOC
 - 🏢 **BNP – Soluções em TI** — Analista de Suporte Júnior *(atual)*
 - 🏢 **Accenture Brasil** — Analista NOC Júnior I
 - 🌐 **NIC.br** — Estágio em Redes de Computadores (IX.br)
-- 🎓 Cursando Gestão de TI — UNIP | Técnico em Redes — SENAI
+- 🎓 Cursando Gestão de TI — UNIP | Técnico em Redes de Computadores — SENAI
 - 📍 Santo André, SP
 
 ---

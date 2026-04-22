@@ -26,7 +26,7 @@ Profissional de TI com experiência em suporte técnico N1/N2, monitoramento NOC
 
 **Suporte & ITSM**
 
-<img src="https://img.shields.io/badge/N--able-0078D4?style=flat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Atera-FF8B9B?style=flat&logoColor=white"/>
 <img src="https://img.shields.io/badge/Milvus-FF6B6B?style=flat&logoColor=white"/>
 <img src="https://img.shields.io/badge/ServiceNow-00C853?style=flat&logo=servicenow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
